@@ -1,6 +1,10 @@
 [![Build Status](https://travis-ci.org/yeex/SendIT.svg?branch=Develop)](https://travis-ci.org/yeex/SendIT) [![Coverage Status](https://coveralls.io/repos/github/yeex/SendIT/badge.svg?branch=Develop)](https://coveralls.io/github/yeex/SendIT?branch=Develop)
-###  📮SendIT | UI
-### SendIT is a courier service that helps users deliver parcels to different destinations.  
+###  SendIT | UI
+### SendIT is a courier service that helps users deliver parcels to different destinations. 
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
 
 ## Stack
 - HTML & CSS
@@ -30,3 +34,10 @@ After fetching the repository directory using CMD(Command Prompt), access the ex
 | GET /users/<userId>/parcels     |    Fetch all parcel delivery orders by a specific user| 
 | PUT /parcels/<parcelId>/cancel  |    Cancel the specific parcel delivery order          | 
 | POST /parcels                   |    Create a parcel delivery order                     | 
+  
+## Acknowledgments
+
+* I acknoledge all the candidates of andela bootcamp cycle-1 kigali and LFA's for their support during the development of this app
+
+  
+
